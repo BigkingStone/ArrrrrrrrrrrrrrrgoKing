@@ -11,7 +11,7 @@ Algorithm Study📒 with Python🐍, Swift✈️
 알고리즘 코딩 테스트 준비!
     
 ## 스터디 진행 방식
-* Baaaarking dog 알고리즘 강의 기준으로 매주 시행
+* [Baaaaaaaaarking dog](https://github.com/encrypted-def/basic-algo-lecture) 알고리즘 강의 기준으로 매주 시행
 * 한 주에 관련된 주제의 강의 수강 후 문제집풀기
 
 |  Date  |               Subject            |   Problem   |
