@@ -17,7 +17,7 @@ Algorithm Study📒 with Python🐍, Swift✈️
 |  Date  |               Subject            |   Problem   |
 |:------:|----------------------------------|-------------|
 | 220724 | `스택`, `큐`, `덱`, `스택의 활용(괄호)` | 미야옹. |
-| 220728 | `BFS`, `DFS `                    | [BOJ 1926 그림](https://www.acmicpc.net/problem/1926) <br>[BOJ 2178 미로 탐색](https://www.acmicpc.net/problem/2178) <br>[BOJ 4179 불!](https://www.acmicpc.net/problem/4179) <br> [BOJ 1697 숨바꼭질](https://www.acmicpc.net/problem/1697) <br>[BOJ 7562 나이트의 이동](https://www.acmicpc.net/problem/7562) <br>[BOJ 2573 빙산](https://www.acmicpc.net/problem/2573) |
+| 220728 | `BFS`, `DFS `                    | [BOJ 1926 그림](https://www.acmicpc.net/problem/1926) <br>[BOJ 2178 미로 탐색](https://www.acmicpc.net/problem/2178) <br>[BOJ 4179 불!](https://www.acmicpc.net/problem/4179) <br>[BOJ 7576 토마토](https://www.acmicpc.net/problem/7576) <br> [BOJ 1697 숨바꼭질](https://www.acmicpc.net/problem/1697) <br>[BOJ 7562 나이트의 이동](https://www.acmicpc.net/problem/7562) <br>[BOJ 2573 빙산](https://www.acmicpc.net/problem/2573) |
 | 220731 | `재귀`, `백트래킹`                  | 미야옹. |
 | 220804 | `시뮬레이션`                        | 미야옹. |
 | 220807 | `정렬`                            | 미야옹. |
