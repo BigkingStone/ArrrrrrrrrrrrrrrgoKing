@@ -16,7 +16,7 @@ Algorithm Study📒 with Python🐍, Swift✈️
 
 |  Date  |               Subject            |   Problem   |
 |:------:|----------------------------------|-------------|
-| 220724 | `스택`, `큐`, `덱`, `스택의 활용(괄호)` | 미야옹. |
+| 220724 | `스택`, `큐`, `덱` <br> + `스택의 활용(괄호)` | 미야옹. |
 | 220728 | `BFS`, `DFS `                    | [BOJ 1926 그림](https://www.acmicpc.net/problem/1926) <br>[BOJ 2178 미로 탐색](https://www.acmicpc.net/problem/2178) <br>[BOJ 4179 불!](https://www.acmicpc.net/problem/4179) <br>[BOJ 7576 토마토](https://www.acmicpc.net/problem/7576) <br> [BOJ 1697 숨바꼭질](https://www.acmicpc.net/problem/1697) <br>[BOJ 7562 나이트의 이동](https://www.acmicpc.net/problem/7562) <br>[BOJ 2573 빙산](https://www.acmicpc.net/problem/2573) |
 | 220731 | `재귀`, `백트래킹`                  | [BOJ 1629 곱셈](https://www.acmicpc.net/problem/1629) <br>[BOJ 11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) <br>[BOJ 1074 Z](https://www.acmicpc.net/problem/1074) <br>[BOJ 17478 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) <br>[BOJ 2630 색종이 만들기](https://www.acmicpc.net/problem/2630) <br>[BOJ 15649 N과 M (1)](https://www.acmicpc.net/problem/15649) <br>[BOJ 9663 N-Queen](https://www.acmicpc.net/problem/9663) <br>[BOJ 1182 부분수열의 합](https://www.acmicpc.net/problem/1182) <br>[BOJ 6603 로또](https://www.acmicpc.net/problem/6603) <br>[BOJ 16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
 | 220804 | `시뮬레이션`                        | 미야옹. |
