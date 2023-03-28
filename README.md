@@ -1,14 +1,13 @@
 # ArrrrrrrrrrrrrrrgoKing
 > Algorithm Study📒 with Python🐍, Swift✈
 
-아ㄹㄹㄹㄹㄹㄹㄹ고킹.
-
-알고리즘 문제를 파이썬과 스위프트로 해결합니다.
+알고리즘 문제를 Python & Swift로 해결합니다.
 
 <br>
 
 ## 기간
 > `1차` 2022.07.24 ~ 2022.08.25
+> `2차` 2023.03.30 ~
 
 <br>
 
