@@ -1,22 +1,20 @@
 # ArrrrrrrrrrrrrrrgoKing
-> Algorithm Study📒 with Python🐍, Swift✈
+> Algorithm Study with Python, Swift
 
 알고리즘 문제를 Python & Swift로 해결합니다.
-
-<br>
 
 ## 기간
 > `1차` 2022.07.24 ~ 2022.08.25
 
 > `2차` 2023.03.30 ~
 
-<br>
+
 
 ## 정기 스터디 시간
 * 주 2회 목요일, 일요일
 * 시간은 팀원들과 자유롭게 정합니다.
     
-<br>
+
 
 ## 스터디 진행 방식
 * [Baaaaaaaaarking dog](https://github.com/encrypted-def/basic-algo-lecture) 알고리즘 강의 기준으로 매주 시행
