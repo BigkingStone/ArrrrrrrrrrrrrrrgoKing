@@ -10,6 +10,7 @@
 
 ## 참여 인원
 - @dahae0320
+- @kangvic0615
 
 ## 공부 방법
 > [Baaaaaaaaarking dog](https://github.com/encrypted-def/basic-algo-lecture) 알고리즘 강의를 기준으로 한다.
