@@ -1,6 +1,10 @@
 # 배열
 [문제집 출처: 바킹독](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)
 
+* Array 공부 정리
+   * [dadahae](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x01%20배열/dadahae)
+   * kangvic
+
 | 문제 분류 | 문제 | 문제 제목 | dadahae의 풀이 | kangvic의 풀이 |
 | :--: | :--: | :--: | :--: | :--: |
 | 연습 문제 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [Python](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/blob/main/0x01%20배열/dadahae/baekjoon/10808.py) | - |
