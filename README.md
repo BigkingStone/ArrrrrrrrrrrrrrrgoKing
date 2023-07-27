@@ -1,17 +1,11 @@
-# ArrrrrrrrrrrrrrrgoKing 
+# ArrrrrrrrrrrrrrrgoKing
+> `1회독` 2023.04.13 ~ 2023.07.13
+> `2회독` 
 알고리즘 문제를 Python과 Swift로 해결합니다.
 (여담. 알고리즘은 al-로 시작하는게 맞으나, 바킹독을 리스펙하는 의미에서 arrr-로 레포명을 지었음.)
 
-## 기간
-> `1회독` 2023.04.13 ~ 2023.07.13
-> `2회독` 
-
 ## 목적
 기업 **알고리즘 테스트**에 **무조건 통과**할 수 있도록 실력을 키웁니다.
-
-## 참여 인원
-- @dahae0320
-- @kangvic0615
 
 ## 공부 방법
 > [Baaaaaaaaarking dog](https://github.com/encrypted-def/basic-algo-lecture) 알고리즘 강의를 기준으로 한다.
@@ -28,12 +22,24 @@
 
 <br>
 
-## 알고리즘!
-1. Stack, Queue, Deque + Stack의 활용
-2. BFS, DFS
-...
+## 공부 순서
+0. [기본 지식](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x00%20기본지식)
+1. [배열](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x01%20배열)
+2. [연결리스트](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x02%20연결리스트)
+3. [Stack, Queue, Deque](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x03%20스택%2C%20큐%2C%20덱)
+4. [Stack의 활용](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x04%20스택의%20활용)
+5. [BFS, DFS](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x05%20BFS%2C%20DFS)
+6. [재귀](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x06%20재귀)
+7. [백트래킹](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x07%20백트래킹)
+8. [시뮬레이션](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x08%20시뮬레이션)
+9. [정렬](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x09%20정렬)
+10. [다이나믹 프로그래밍](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x0A%20다이나믹%20프로그래밍)
+11. [그리디](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x0B%20그리디)
+12. [수학](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x0C%20수학)
+13. [이분탐색](https://github.com/BigkingStone/ArrrrrrrrrrrrrrrgoKing/tree/main/0x0D%20이분탐색)
 
 <br>
+<hr>
 
 ## Commit Convention
 #### commit message form
@@ -47,3 +53,11 @@
 * `[Update]`: 코드 수정(ex. 이미 풀이한 코드에서 로직 수정)
 * `[Docs]`: 문서 파일 추가(ex. Readme 파일 or 풀이 과정을 담은 문서)
 * `[Delete]`: 파일 삭제
+
+<br>
+
+<hr>
+
+#### 참여 인원
+- @dahae0320
+- @kangvic0615
