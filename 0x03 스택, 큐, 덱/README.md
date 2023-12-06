@@ -1,7 +1,9 @@
 # 스택, 큐, 덱
 > Stack is linear data structure that stores items in a Last-In/First-Out (LIFO) or First-In/Last-Out (FILO) manner.
+
 > Queue is linear data structure that stores items in First In First Out (FIFO) manner.
-> an abstract data type that generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail).
+
+> Deque is abstract data type that generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail).
 
 ### 스택, 큐, 덱 공부 정리
 * dadahae
