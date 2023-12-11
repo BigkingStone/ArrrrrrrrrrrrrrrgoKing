@@ -1,7 +1,7 @@
 ---
 name: 'Algorithm Study '
 about: 알고리즘 공부를 기록합니다.
-title: "[Study]"
+title: "[Study] 을 학습하고 문제를 풀이합니다 (@)"
 labels: "\U0001F4DAStudy"
 assignees: ''
 
